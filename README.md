@@ -4,8 +4,7 @@ Redux is a predictable state container for JavaScript apps. It is used to manage
 ## Installation
 To use Redux in your React application, you need to install both redux and react-redux packages:
 
-``` npm install redux react-redux
- ```
+``` npm install redux react-redux ```
 
 Setting Up the Store
 The Redux store is the single source of truth for your application's state. It holds the entire state tree of your application and all changes to the state are made through dispatching actions.
